@@ -19,7 +19,7 @@ The primary objective is to create a report to track and analyse the stores's on
 
 # Insights
 
-- In the specified period, Total Sales is amounted to 436K, with a corresponding quantity of 5615 units sold.
+- In the specified period, Total Sales is amounted to 438K, with a corresponding quantity of 5615 units sold.
 - The Total Profits generated from these sales reached 37K.
 - The Total Average Order Value in the period is 121K.
 - The highest sales figure of 102K was generated in Maharastra, highlighting its significant dominance.
